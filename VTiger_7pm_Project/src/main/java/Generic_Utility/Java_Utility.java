@@ -10,7 +10,7 @@ public class Java_Utility
 	 * @return
 	 * @author Mittal
 	 */
-	
+	//first push
 	public int getRandomNum()
 	{
 		Random ran= new Random();
